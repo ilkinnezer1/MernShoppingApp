@@ -1,0 +1,21 @@
+.fact-container{
+    min-height: 90vh;
+}
+.main-box{
+    min-height: 70vh;
+}
+.header-title{
+    padding-right: 12px;
+   
+}
+.bold-title, .header-title{
+    font-weight: 700;
+}
+.text-gray{
+    color: rgb(184, 184, 184) !important;
+  
+}
+.right-text{
+    text-align: right;
+    padding-right: 15px;
+}

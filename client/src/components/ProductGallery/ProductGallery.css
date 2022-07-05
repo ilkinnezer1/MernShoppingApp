@@ -1,0 +1,19 @@
+.img-cont{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.img-cont img{
+    width: 100%;
+}
+.button-add{
+    position: absolute;
+    z-index: 1000;
+    top: 5%;
+    left: 65%;
+}
+.img-btn{
+    border: .5px solid gray;
+    border-radius: 50%;
+}

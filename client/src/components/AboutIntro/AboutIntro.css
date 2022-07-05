@@ -1,0 +1,15 @@
+.right-image{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+.read-more-link{
+    color: black;
+}
+.read-more-link:hover{
+    color: black !important;
+}
+.intro-header{
+    margin-bottom: 0;
+    padding: 0;
+}

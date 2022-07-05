@@ -1,0 +1,25 @@
+.newsletter-container{
+    background-image: url("./subscribe.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px;
+}
+.label-text{
+    font-size: 25px;
+    font-weight: 600;
+}
+.sub-button{
+    background: white !important;
+    color: green !important;
+    border: none;
+    border-radius: 0 !important;
+    outline: none !important;
+    
+}
+.sub-input{
+    border: none !important;
+    border-radius: 0 !important;
+    outline: none !important;
+    
+}

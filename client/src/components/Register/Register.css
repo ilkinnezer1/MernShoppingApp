@@ -1,0 +1,11 @@
+.form-container{
+    border: .8px solid rgb(211, 211, 211);
+    padding: 80px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px whitesmoke;
+    background-color: whitesmoke;
+}
+
+.register{
+    min-height: 90vh;
+}

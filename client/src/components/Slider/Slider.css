@@ -1,0 +1,19 @@
+.carousel-container{
+background: rgb(247, 247, 247);}
+.image{
+    display: grid;
+    object-fit: fill;
+    width: 30%;
+}
+.shop-button{
+    background-color: teal !important;
+}
+.title{
+    font-size: 55px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+.description{
+    font-size: 20px;
+    font-weight: 300;
+    font-family:'Times New Roman', Times, serif; }

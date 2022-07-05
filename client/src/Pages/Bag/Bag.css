@@ -1,0 +1,31 @@
+.bag-header{
+    font-weight: 400;
+}
+.product-image{
+    width: 18%;
+    border-radius:20px ;
+}
+.left-side-container{
+    width: 35%;
+    border: .7px solid rgba(216, 216, 216, 0.795);
+    margin-left: 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+    position: sticky;
+}
+.light-font{
+    font-weight: 300;
+}
+.right-side-container{
+    border: .7px solid rgba(216, 216, 216, 0.795);
+    border-radius: 20px;
+    transition: all .6s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+.right-side-container:hover{
+   background-color: rgb(247, 247, 247);
+}
+.light-text{
+    font-weight: 200;
+    font-size: 30px;
+}

@@ -1,0 +1,52 @@
+.banner-header{
+    text-align: right;
+    font-weight: 700;
+    font-size: 50px;
+}
+.first-banner-img{
+    background-image: url("./category/first.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 22vw;
+    min-height: 90vh;
+    margin-right: 15px;
+    margin-top: 25px;
+}
+.second-banner-img{
+    background-color: blue;
+    min-width: 22vw;
+    min-height: 83vh;
+}
+.third-banner-img{
+    background-color: burlywood;
+    min-width: 22vw;
+    min-height: 95vh;
+}
+
+.banner-text{
+    text-align: right;
+}
+.banner-button{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.second-banner-img{
+    background-image: url("./category/second.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 22vw;
+    min-height: 83vh;
+    margin-right: 15px;
+}
+.third-banner-img{
+    background-image: url("./category/third.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 22vw;
+    min-height: 88vh;
+    margin-right: 15px;
+}

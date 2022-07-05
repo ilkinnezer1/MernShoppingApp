@@ -1,0 +1,20 @@
+.full-section{
+    min-height: 77.5vh;
+}
+.intro-image{
+    width:40%;
+
+}
+.intro-title{
+    font-weight: 700;
+}
+.intro-text{
+    font-weight: 300;
+}
+.checked-list{
+    text-decoration: none;
+    list-style: none;
+}
+.form-check-input{
+    border: none !important;
+}
